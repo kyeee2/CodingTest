@@ -13,16 +13,16 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="리소스 파일\Programmers">
+    <Filter Include="소스 파일\Programmers">
       <UniqueIdentifier>{4d766cd2-6141-46a2-8f21-9c11cd372354}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="N개의최소공배수.cpp">
-      <Filter>리소스 파일\Programmers</Filter>
+      <Filter>소스 파일\Programmers</Filter>
     </ClCompile>
     <ClCompile Include="피보나치수.cpp">
-      <Filter>리소스 파일\Programmers</Filter>
+      <Filter>소스 파일\Programmers</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
