@@ -1,9 +1,9 @@
-#include <string>
+ï»¿#include <string>
 #include <vector>
 
 using namespace std;
 
-// ÃÖ´ë°ø¾à¼ö ±¸ÇÏ±â
+// ìµœëŒ€ê³µì•½ìˆ˜ êµ¬í•˜ê¸°
 int gcd(int x, int y) {
     if (x % y == 0) {
         return y;
@@ -15,13 +15,13 @@ int gcd(int x, int y) {
 
 int solution(vector<int> arr) {
 
-    int g = gcd(arr[0], arr[1]);    // ÃÖ´ë°ø¾à¼ö
-    int lcm = arr[0] * arr[1] / g;  // ÃÖ¼Ò°ø¹è¼ö
+    int g = gcd(arr[0], arr[1]);    // ìµœëŒ€ê³µì•½ìˆ˜
+    int lcm = arr[0] * arr[1] / g;  // ìµœì†Œê³µë°°ìˆ˜
 
     for (int i = 2; i < arr.size(); i++) {
-        // ÇöÀç ÃÖ¼Ò°ø¹è¼ö¿Í i¹øÂ° ¼öÀÇ ÃÖ´ë°ø¾à¼ö Ã£±â
+        // í˜„ìž¬ ìµœì†Œê³µë°°ìˆ˜ì™€ ië²ˆì§¸ ìˆ˜ì˜ ìµœëŒ€ê³µì•½ìˆ˜ ì°¾ê¸°
         g = gcd(lcm, arr[i]);
-        // ÃÖ¼Ò°ø¹è¼ö °»½Å
+        // ìµœì†Œê³µë°°ìˆ˜ ê°±ì‹ 
         lcm = lcm * arr[i] / g;
     }
 
