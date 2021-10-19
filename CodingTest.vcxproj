@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="N개의최소공배수.cpp" />
+    <ClCompile Include="Programmers\Level2\최소값만들기.cpp" />
     <ClCompile Include="피보나치수.cpp" />
   </ItemGroup>
   <ItemGroup>
