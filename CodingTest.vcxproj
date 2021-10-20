@@ -140,9 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="N개의최소공배수.cpp" />
+    <ClCompile Include="Programmers\Level2\기능개발.cpp" />
+    <ClCompile Include="Programmers\Level2\삼각달팽이.cpp" />
+    <ClCompile Include="Programmers\Level2\조이스틱.cpp" />
     <ClCompile Include="Programmers\Level2\최소값만들기.cpp" />
-    <ClCompile Include="피보나치수.cpp" />
+    <ClCompile Include="Programmers\Level2\프린터.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
