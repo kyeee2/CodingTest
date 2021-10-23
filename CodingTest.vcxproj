@@ -140,8 +140,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Programmers\Level2\괄호회전하기.cpp" />
     <ClCompile Include="Programmers\Level2\기능개발.cpp" />
     <ClCompile Include="Programmers\Level2\삼각달팽이.cpp" />
+    <ClCompile Include="Programmers\Level2\숫자의표현.cpp" />
     <ClCompile Include="Programmers\Level2\조이스틱.cpp" />
     <ClCompile Include="Programmers\Level2\최소값만들기.cpp" />
     <ClCompile Include="Programmers\Level2\튜플.cpp" />
