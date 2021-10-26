@@ -150,6 +150,7 @@
     <ClCompile Include="Programmers\Level2\최소값만들기.cpp" />
     <ClCompile Include="Programmers\Level2\튜플.cpp" />
     <ClCompile Include="Programmers\Level2\프린터.cpp" />
+    <ClCompile Include="Programmers\Level2\피로도.cpp" />
     <ClCompile Include="Programmers\Level2\행렬의곱셈.cpp" />
   </ItemGroup>
   <ItemGroup>
