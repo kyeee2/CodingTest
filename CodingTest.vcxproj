@@ -148,6 +148,7 @@
     <ClCompile Include="Programmers\Level2\짝지어제거하기.cpp" />
     <ClCompile Include="Programmers\Level2\최댓값과최솟값.cpp" />
     <ClCompile Include="Programmers\Level2\최소값만들기.cpp" />
+    <ClCompile Include="Programmers\Level2\캐시.cpp" />
     <ClCompile Include="Programmers\Level2\튜플.cpp" />
     <ClCompile Include="Programmers\Level2\프린터.cpp" />
     <ClCompile Include="Programmers\Level2\피로도.cpp" />
