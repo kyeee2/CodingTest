@@ -144,6 +144,7 @@
     <ClCompile Include="Programmers\Level2\기능개발.cpp" />
     <ClCompile Include="Programmers\Level2\삼각달팽이.cpp" />
     <ClCompile Include="Programmers\Level2\숫자의표현.cpp" />
+    <ClCompile Include="Programmers\Level2\영어끝말잇기.cpp" />
     <ClCompile Include="Programmers\Level2\조이스틱.cpp" />
     <ClCompile Include="Programmers\Level2\짝지어제거하기.cpp" />
     <ClCompile Include="Programmers\Level2\최댓값과최솟값.cpp" />
