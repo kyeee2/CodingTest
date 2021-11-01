@@ -69,6 +69,9 @@
     <ClCompile Include="Programmers\Level2\예상대진표.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Programmers\Level2\카카오프렌즈컬러링북.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
