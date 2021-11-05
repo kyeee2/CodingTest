@@ -152,6 +152,7 @@
     <ClCompile Include="Programmers\Level2\예상대진표.cpp" />
     <ClCompile Include="Programmers\Level2\위장.cpp" />
     <ClCompile Include="Programmers\Level2\조이스틱.cpp" />
+    <ClCompile Include="Programmers\Level2\주식가격.cpp" />
     <ClCompile Include="Programmers\Level2\짝지어제거하기.cpp" />
     <ClCompile Include="Programmers\Level2\최댓값과최솟값.cpp" />
     <ClCompile Include="Programmers\Level2\최소값만들기.cpp" />
