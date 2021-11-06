@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="Programmers\Level2\124나라의숫자.cpp" />
     <ClCompile Include="Programmers\Level2\n진수게임.cpp" />
+    <ClCompile Include="Programmers\Level2\가장먼노드.cpp" />
     <ClCompile Include="Programmers\Level2\거리두기확인하기.cpp" />
     <ClCompile Include="Programmers\Level2\게임맵최단거리.cpp" />
     <ClCompile Include="Programmers\Level2\괄호회전하기.cpp" />
