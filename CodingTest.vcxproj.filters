@@ -99,7 +99,16 @@
     <ClCompile Include="Programmers\Level2\가장먼노드.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Programmers\Level2\여행경로.cpp">
+    <ClCompile Include="Programmers\Level3\여행경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\1922_네트워크연결.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Level2\N번째의최소공배수cpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Level2\피보나치수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

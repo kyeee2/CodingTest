@@ -140,7 +140,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Baekjoon\1922_네트워크연결.cpp" />
     <ClCompile Include="Programmers\Level2\124나라의숫자.cpp" />
+    <ClCompile Include="Programmers\Level2\N번째의최소공배수cpp.cpp" />
     <ClCompile Include="Programmers\Level2\n진수게임.cpp" />
     <ClCompile Include="Programmers\Level2\가장먼노드.cpp" />
     <ClCompile Include="Programmers\Level2\거리두기확인하기.cpp" />
@@ -151,7 +153,8 @@
     <ClCompile Include="Programmers\Level2\땅따먹기.cpp" />
     <ClCompile Include="Programmers\Level2\삼각달팽이.cpp" />
     <ClCompile Include="Programmers\Level2\숫자의표현.cpp" />
-    <ClCompile Include="Programmers\Level2\여행경로.cpp" />
+    <ClCompile Include="Programmers\Level2\피보나치수.cpp" />
+    <ClCompile Include="Programmers\Level3\여행경로.cpp" />
     <ClCompile Include="Programmers\Level2\영어끝말잇기.cpp" />
     <ClCompile Include="Programmers\Level2\예상대진표.cpp" />
     <ClCompile Include="Programmers\Level2\위장.cpp" />
