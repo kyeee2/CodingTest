@@ -165,6 +165,7 @@
     <ClCompile Include="Programmers\Level2\프린터.cpp" />
     <ClCompile Include="Programmers\Level2\피로도.cpp" />
     <ClCompile Include="Programmers\Level2\행렬의곱셈.cpp" />
+    <ClCompile Include="Programmers\Level2\행렬테두리회전하기.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
