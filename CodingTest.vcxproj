@@ -154,6 +154,7 @@
     <ClCompile Include="Programmers\Level2\구명보트.cpp" />
     <ClCompile Include="Programmers\Level2\기능개발.cpp" />
     <ClCompile Include="Programmers\Level2\뉴스클러스터링.cpp" />
+    <ClCompile Include="Programmers\Level2\다음큰숫자.cpp" />
     <ClCompile Include="Programmers\Level2\더맵게.cpp" />
     <ClCompile Include="Programmers\Level2\땅따먹기.cpp" />
     <ClCompile Include="Programmers\Level2\배달.cpp" />
