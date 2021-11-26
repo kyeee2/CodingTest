@@ -159,6 +159,7 @@
     <ClCompile Include="Programmers\Level2\다음큰숫자.cpp" />
     <ClCompile Include="Programmers\Level2\더맵게.cpp" />
     <ClCompile Include="Programmers\Level2\땅따먹기.cpp" />
+    <ClCompile Include="Programmers\Level2\모음사전.cpp" />
     <ClCompile Include="Programmers\Level2\배달.cpp" />
     <ClCompile Include="Programmers\Level2\삼각달팽이.cpp" />
     <ClCompile Include="Programmers\Level2\숫자의표현.cpp" />
