@@ -165,6 +165,7 @@
     <ClCompile Include="Programmers\Level2\삼각달팽이.cpp" />
     <ClCompile Include="Programmers\Level2\숫자의표현.cpp" />
     <ClCompile Include="Programmers\Level2\스킬트리.cpp" />
+    <ClCompile Include="Programmers\Level2\압축.cpp" />
     <ClCompile Include="Programmers\Level2\올바른괄호.cpp" />
     <ClCompile Include="Programmers\Level2\전력망을둘로나누기.cpp" />
     <ClCompile Include="Programmers\Level2\큰수만들기.cpp" />
