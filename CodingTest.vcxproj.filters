@@ -102,7 +102,7 @@
     <ClCompile Include="Programmers\Level3\여행경로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjoon\1922_네트워크연결.cpp">
+    <ClCompile Include="Baekjoon\GOLD\1922_네트워크연결.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Programmers\Level2\N번째의최소공배수cpp.cpp">
@@ -168,10 +168,13 @@
     <ClCompile Include="Programmers\Level2\점프와순간이동.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjoon\1662_압축.cpp">
+    <ClCompile Include="Baekjoon\GOLD\1662_압축.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Baekjoon\1593_문자해독.cpp">
+    <ClCompile Include="Baekjoon\GOLD\1593_문자해독.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\GOLD\1339_단어수학.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
